@@ -1,5 +1,6 @@
-<h1 style="text-align:center">Hands-on with AWS + .NET</h1>
-<img src="net-azure.svg" width="100%" height="100px" />
+<h1 style="text-align:center">Hands-on with Azure + .NET</h1>
+
+<img src="azure-net.svg" width="100%" height="100px" />
 
 In this repo, you'll find my hands-on experience using Azure with .NET, utilizing the following services:
 
