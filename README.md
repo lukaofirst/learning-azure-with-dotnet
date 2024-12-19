@@ -1,4 +1,6 @@
-<h1 style="text-align:center">Hands-on with Azure + .NET</h1>
+<div align="center">
+  <h1>Hands-on with Azure + .NET</h1>
+</div>
 
 <img src="azure-net.svg" width="100%" height="100px" />
 
